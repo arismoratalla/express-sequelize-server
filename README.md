@@ -11,6 +11,7 @@ Based from the code and teachings of [Jhon Andrew Baes](mailto:anecbook@gmail.co
 ## Table of Contents
 
 - [Installation](#installation)
+- [Configuration](#configuration)
 - [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
@@ -23,6 +24,16 @@ To install the project and its dependencies, follow these steps:
 2. Navigate to the project directory: `cd express-sequelize-server`
 3. Install dependencies: `npm install`
 
+## Configuration
+
+1. Rename the `dotenv` file to `.env` in the project's root directory.
+2. Open the `.env` file and provide the necessary information for the following environment variables:
+
+   ```plaintext
+   HOST=<database-host>
+   USER=<database-username>
+   PASSWORD=<database-password>
+   DATABASE=<database-name>
 ## Usage
 
 To run the application, you can use the following scripts:
