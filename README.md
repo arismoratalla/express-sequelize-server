@@ -20,7 +20,7 @@ Based from the code and teachings of [Jhon Andrew Baes](mailto:anecbook@gmail.co
 To install the project and its dependencies, follow these steps:
 
 1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd nodejs-backend`
+2. Navigate to the project directory: `cd express-sequelize-server`
 3. Install dependencies: `npm install`
 
 ## Usage
