@@ -1,0 +1,8 @@
+PORT=3000
+SECRET=
+
+# MySQL Database config
+HOST=''
+USER=''
+PASSWORD=''
+DATABASE=''
